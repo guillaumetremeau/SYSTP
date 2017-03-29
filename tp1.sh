@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-
 #Question 1
 echo "Kenavo"
 
